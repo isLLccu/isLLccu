@@ -1,4 +1,4 @@
-## Hi, I'm Lin Leshan (林乐珊)
+## Hi, I'm Lin Leshan 
 
 CS @ 华南农业大学 · 2024–2028 | GPA 91.3/100
 
@@ -24,8 +24,3 @@ CS @ 华南农业大学 · 2024–2028 | GPA 91.3/100
 | [adcraft-agent](https://github.com/isLLccu/adcraft-agent) | AI-powered ad material generation platform · async task queue · multi-user isolation | FastAPI · Celery · Redis · LLM API |
 
 ---
-
-**Awards**
-- 国家级大创立项
-- 正大杯全国大学生市场调查大赛 国家三等奖
-- 丁颖杯暨挑战杯 银奖
